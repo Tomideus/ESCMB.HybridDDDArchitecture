@@ -9,6 +9,7 @@ namespace ESCMB.Infraestructure.Repositories.Sql
     internal sealed class StoreDbContext : DbContext
     {
         public DbSet<Domain.Entities.DummyEntity> DummyEntity { get; set; }
+        public DbSet<Domain.Entities.Account> AccountEntity { get; set; }
 
         public StoreDbContext(DbContextOptions<StoreDbContext> options) : base(options)
         {
@@ -17,9 +18,12 @@ namespace ESCMB.Infraestructure.Repositories.Sql
         protected override void OnModelCreating(ModelBuilder modelBuilder)
         {
             modelBuilder.Entity<Domain.Entities.DummyEntity>().ToTable("DummyEntity");
-
             modelBuilder.Entity<Domain.Entities.DummyEntity>().Ignore(type => type.ValidationErrors);
             modelBuilder.Entity<Domain.Entities.DummyEntity>().Ignore(type => type.IsValid);
+
+            modelBuilder.Entity<Domain.Entities.Account>().ToTable("Account");
+            modelBuilder.Entity<Domain.Entities.Account>().Ignore(type => type.ValidationErrors);
+            modelBuilder.Entity<Domain.Entities.Account>().Ignore(type => type.IsValid);
         }
     }
 }
