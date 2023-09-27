@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "1GN3FyD5NCoCf0xNQascrv6mp8v35LegDalXWhqCbnx2P7avRCg1GtkzPzO/tRVFHe+9U104WLJaLFgusSnDqQ==",
+  "dgSpecHash": "FigXYKXtU4d85Wo8h8OPJ3QoFhDkUZgiDlPPrdzPwW4VEs/cl0bXLRA+NgVGFq/mYSl8NoUjHS7zjpoPCiCCmQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\sopor\\source\\repos\\FedeJG82\\ESCMB.HybridDDDArchitecture\\ESCMB.HybridDDDArchitecture\\ESCMB.Application\\ESCMB.Application.csproj",
+  "projectFilePath": "C:\\Users\\sopor\\Source\\Repos\\HectorOviedoM\\ESCMB.HybridDDDArchitecture\\ESCMB.HybridDDDArchitecture\\ESCMB.Application\\ESCMB.Application.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\sopor\\.nuget\\packages\\automapper\\12.0.1\\automapper.12.0.1.nupkg.sha512",
     "C:\\Users\\sopor\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\12.0.1\\automapper.extensions.microsoft.dependencyinjection.12.0.1.nupkg.sha512",
@@ -16,12 +16,21 @@
     "C:\\Users\\sopor\\.nuget\\packages\\microservices.common.application.repositories.sql.core\\1.0.0\\microservices.common.application.repositories.sql.core.1.0.0.nupkg.sha512",
     "C:\\Users\\sopor\\.nuget\\packages\\microservices.common.domain.core\\1.0.0\\microservices.common.domain.core.1.0.0.nupkg.sha512",
     "C:\\Users\\sopor\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
+    "C:\\Users\\sopor\\.nuget\\packages\\microsoft.extensions.configuration\\7.0.0\\microsoft.extensions.configuration.7.0.0.nupkg.sha512",
+    "C:\\Users\\sopor\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\7.0.0\\microsoft.extensions.configuration.abstractions.7.0.0.nupkg.sha512",
+    "C:\\Users\\sopor\\.nuget\\packages\\microsoft.extensions.configuration.fileextensions\\7.0.0\\microsoft.extensions.configuration.fileextensions.7.0.0.nupkg.sha512",
+    "C:\\Users\\sopor\\.nuget\\packages\\microsoft.extensions.configuration.json\\7.0.0\\microsoft.extensions.configuration.json.7.0.0.nupkg.sha512",
     "C:\\Users\\sopor\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\7.0.0\\microsoft.extensions.dependencyinjection.abstractions.7.0.0.nupkg.sha512",
+    "C:\\Users\\sopor\\.nuget\\packages\\microsoft.extensions.fileproviders.abstractions\\7.0.0\\microsoft.extensions.fileproviders.abstractions.7.0.0.nupkg.sha512",
+    "C:\\Users\\sopor\\.nuget\\packages\\microsoft.extensions.fileproviders.physical\\7.0.0\\microsoft.extensions.fileproviders.physical.7.0.0.nupkg.sha512",
+    "C:\\Users\\sopor\\.nuget\\packages\\microsoft.extensions.filesystemglobbing\\7.0.0\\microsoft.extensions.filesystemglobbing.7.0.0.nupkg.sha512",
     "C:\\Users\\sopor\\.nuget\\packages\\microsoft.extensions.options\\6.0.0\\microsoft.extensions.options.6.0.0.nupkg.sha512",
-    "C:\\Users\\sopor\\.nuget\\packages\\microsoft.extensions.primitives\\6.0.0\\microsoft.extensions.primitives.6.0.0.nupkg.sha512",
+    "C:\\Users\\sopor\\.nuget\\packages\\microsoft.extensions.primitives\\7.0.0\\microsoft.extensions.primitives.7.0.0.nupkg.sha512",
     "C:\\Users\\sopor\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512",
     "C:\\Users\\sopor\\.nuget\\packages\\system.componentmodel.annotations\\4.4.1\\system.componentmodel.annotations.4.4.1.nupkg.sha512",
     "C:\\Users\\sopor\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512",
+    "C:\\Users\\sopor\\.nuget\\packages\\system.text.encodings.web\\7.0.0\\system.text.encodings.web.7.0.0.nupkg.sha512",
+    "C:\\Users\\sopor\\.nuget\\packages\\system.text.json\\7.0.0\\system.text.json.7.0.0.nupkg.sha512",
     "C:\\Users\\sopor\\.nuget\\packages\\system.threading.tasks.extensions\\4.5.4\\system.threading.tasks.extensions.4.5.4.nupkg.sha512"
   ],
   "logs": []

@@ -1,12 +1,23 @@
 {
   "version": 2,
-  "dgSpecHash": "7U5/idZ2bQOX/j0xmF7AD52wGd3deLsIvmhOqcN1PG07zE7Rtyh1urBqMlK03FrFoPUtbPbq56tCQS70CTVYFw==",
+  "dgSpecHash": "icEyHTTZ5CkmNl9auL5b1lzWAR5x2dXiVU/RgqqKHbt07PJNU88xZPKeFZuuPq478ByC4WRJc6Xpk3maxfbsUA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\sopor\\source\\repos\\FedeJG82\\ESCMB.HybridDDDArchitecture\\ESCMB.HybridDDDArchitecture\\ESCMB.Domain\\ESCMB.Domain.csproj",
+  "projectFilePath": "C:\\Users\\sopor\\Source\\Repos\\HectorOviedoM\\ESCMB.HybridDDDArchitecture\\ESCMB.HybridDDDArchitecture\\ESCMB.Domain\\ESCMB.Domain.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\sopor\\.nuget\\packages\\fluentvalidation\\8.6.2\\fluentvalidation.8.6.2.nupkg.sha512",
     "C:\\Users\\sopor\\.nuget\\packages\\microservices.common.domain.core\\1.0.0\\microservices.common.domain.core.1.0.0.nupkg.sha512",
-    "C:\\Users\\sopor\\.nuget\\packages\\system.componentmodel.annotations\\4.4.1\\system.componentmodel.annotations.4.4.1.nupkg.sha512"
+    "C:\\Users\\sopor\\.nuget\\packages\\microsoft.extensions.configuration\\7.0.0\\microsoft.extensions.configuration.7.0.0.nupkg.sha512",
+    "C:\\Users\\sopor\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\7.0.0\\microsoft.extensions.configuration.abstractions.7.0.0.nupkg.sha512",
+    "C:\\Users\\sopor\\.nuget\\packages\\microsoft.extensions.configuration.fileextensions\\7.0.0\\microsoft.extensions.configuration.fileextensions.7.0.0.nupkg.sha512",
+    "C:\\Users\\sopor\\.nuget\\packages\\microsoft.extensions.configuration.json\\7.0.0\\microsoft.extensions.configuration.json.7.0.0.nupkg.sha512",
+    "C:\\Users\\sopor\\.nuget\\packages\\microsoft.extensions.fileproviders.abstractions\\7.0.0\\microsoft.extensions.fileproviders.abstractions.7.0.0.nupkg.sha512",
+    "C:\\Users\\sopor\\.nuget\\packages\\microsoft.extensions.fileproviders.physical\\7.0.0\\microsoft.extensions.fileproviders.physical.7.0.0.nupkg.sha512",
+    "C:\\Users\\sopor\\.nuget\\packages\\microsoft.extensions.filesystemglobbing\\7.0.0\\microsoft.extensions.filesystemglobbing.7.0.0.nupkg.sha512",
+    "C:\\Users\\sopor\\.nuget\\packages\\microsoft.extensions.primitives\\7.0.0\\microsoft.extensions.primitives.7.0.0.nupkg.sha512",
+    "C:\\Users\\sopor\\.nuget\\packages\\system.componentmodel.annotations\\4.4.1\\system.componentmodel.annotations.4.4.1.nupkg.sha512",
+    "C:\\Users\\sopor\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512",
+    "C:\\Users\\sopor\\.nuget\\packages\\system.text.encodings.web\\7.0.0\\system.text.encodings.web.7.0.0.nupkg.sha512",
+    "C:\\Users\\sopor\\.nuget\\packages\\system.text.json\\7.0.0\\system.text.json.7.0.0.nupkg.sha512"
   ],
   "logs": []
 }

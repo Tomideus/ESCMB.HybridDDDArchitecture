@@ -2,15 +2,10 @@
   "ExpandedNodes": [
     "",
     "\\ESCMB.HybridDDDArchitecture",
-    "\\ESCMB.HybridDDDArchitecture\\ESCMB.Application",
-    "\\ESCMB.HybridDDDArchitecture\\ESCMB.Application\\UseCases",
-    "\\ESCMB.HybridDDDArchitecture\\ESCMB.Application\\UseCases\\Account",
-    "\\ESCMB.HybridDDDArchitecture\\ESCMB.Application\\UseCases\\Account\\Commands",
-    "\\ESCMB.HybridDDDArchitecture\\ESCMB.Application\\UseCases\\Account\\Commands\\RegisterAccount",
+    "\\ESCMB.HybridDDDArchitecture\\ESCMB.API",
     "\\ESCMB.HybridDDDArchitecture\\ESCMB.Domain",
-    "\\ESCMB.HybridDDDArchitecture\\ESCMB.Domain\\Entities",
-    "\\ESCMB.HybridDDDArchitecture\\ESCMB.Domain\\Validators"
+    "\\ESCMB.HybridDDDArchitecture\\ESCMB.Domain\\Entities"
   ],
-  "SelectedNode": "\\ESCMB.HybridDDDArchitecture\\ESCMB.Domain\\Entities",
+  "SelectedNode": "\\ESCMB.HybridDDDArchitecture\\ESCMB.Domain\\Entities\\Account.cs",
   "PreviewInSolutionExplorer": false
 }
