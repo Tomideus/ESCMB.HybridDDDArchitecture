@@ -1,24 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\tomas\\source\\repos\\ESCMB.HybridDDDArchitecture\\ESCMB.HybridDDDArchitecture\\ESCMB.API\\ESCMB.API.csproj": {}
+    "C:\\Users\\sopor\\Source\\Repos\\HectorOviedoM\\ESCMB.HybridDDDArchitecture\\ESCMB.HybridDDDArchitecture\\ESCMB.API\\ESCMB.API.csproj": {}
   },
   "projects": {
-    "C:\\Users\\tomas\\source\\repos\\ESCMB.HybridDDDArchitecture\\ESCMB.HybridDDDArchitecture\\ESCMB.API\\ESCMB.API.csproj": {
+    "C:\\Users\\sopor\\Source\\Repos\\HectorOviedoM\\ESCMB.HybridDDDArchitecture\\ESCMB.HybridDDDArchitecture\\ESCMB.API\\ESCMB.API.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\tomas\\source\\repos\\ESCMB.HybridDDDArchitecture\\ESCMB.HybridDDDArchitecture\\ESCMB.API\\ESCMB.API.csproj",
+        "projectUniqueName": "C:\\Users\\sopor\\Source\\Repos\\HectorOviedoM\\ESCMB.HybridDDDArchitecture\\ESCMB.HybridDDDArchitecture\\ESCMB.API\\ESCMB.API.csproj",
         "projectName": "ESCMB.API",
-        "projectPath": "C:\\Users\\tomas\\source\\repos\\ESCMB.HybridDDDArchitecture\\ESCMB.HybridDDDArchitecture\\ESCMB.API\\ESCMB.API.csproj",
-        "packagesPath": "C:\\Users\\tomas\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\tomas\\source\\repos\\ESCMB.HybridDDDArchitecture\\ESCMB.HybridDDDArchitecture\\ESCMB.API\\obj\\",
+        "projectPath": "C:\\Users\\sopor\\Source\\Repos\\HectorOviedoM\\ESCMB.HybridDDDArchitecture\\ESCMB.HybridDDDArchitecture\\ESCMB.API\\ESCMB.API.csproj",
+        "packagesPath": "C:\\Users\\sopor\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\sopor\\Source\\Repos\\HectorOviedoM\\ESCMB.HybridDDDArchitecture\\ESCMB.HybridDDDArchitecture\\ESCMB.API\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-        ],
         "configFilePaths": [
-          "C:\\Users\\tomas\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Users\\sopor\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -26,18 +22,17 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "C:\\Program Files\\dotnet\\sdk\\7.0.304\\Sdks\\Microsoft.NET.Sdk.Web\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\Users\\tomas\\source\\repos\\ESCMB.HybridDDDArchitecture\\ESCMB.HybridDDDArchitecture\\ESCMB.Application\\ESCMB.Application.csproj": {
-                "projectPath": "C:\\Users\\tomas\\source\\repos\\ESCMB.HybridDDDArchitecture\\ESCMB.HybridDDDArchitecture\\ESCMB.Application\\ESCMB.Application.csproj"
+              "C:\\Users\\sopor\\Source\\Repos\\HectorOviedoM\\ESCMB.HybridDDDArchitecture\\ESCMB.HybridDDDArchitecture\\ESCMB.Application\\ESCMB.Application.csproj": {
+                "projectPath": "C:\\Users\\sopor\\Source\\Repos\\HectorOviedoM\\ESCMB.HybridDDDArchitecture\\ESCMB.HybridDDDArchitecture\\ESCMB.Application\\ESCMB.Application.csproj"
               },
-              "C:\\Users\\tomas\\source\\repos\\ESCMB.HybridDDDArchitecture\\ESCMB.HybridDDDArchitecture\\ESCMB.Infraestructure\\ESCMB.Infraestructure.csproj": {
-                "projectPath": "C:\\Users\\tomas\\source\\repos\\ESCMB.HybridDDDArchitecture\\ESCMB.HybridDDDArchitecture\\ESCMB.Infraestructure\\ESCMB.Infraestructure.csproj"
+              "C:\\Users\\sopor\\Source\\Repos\\HectorOviedoM\\ESCMB.HybridDDDArchitecture\\ESCMB.HybridDDDArchitecture\\ESCMB.Infraestructure\\ESCMB.Infraestructure.csproj": {
+                "projectPath": "C:\\Users\\sopor\\Source\\Repos\\HectorOviedoM\\ESCMB.HybridDDDArchitecture\\ESCMB.HybridDDDArchitecture\\ESCMB.Infraestructure\\ESCMB.Infraestructure.csproj"
               }
             }
           }
@@ -80,25 +75,21 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.304\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.400\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\tomas\\source\\repos\\ESCMB.HybridDDDArchitecture\\ESCMB.HybridDDDArchitecture\\ESCMB.Application\\ESCMB.Application.csproj": {
+    "C:\\Users\\sopor\\Source\\Repos\\HectorOviedoM\\ESCMB.HybridDDDArchitecture\\ESCMB.HybridDDDArchitecture\\ESCMB.Application\\ESCMB.Application.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\tomas\\source\\repos\\ESCMB.HybridDDDArchitecture\\ESCMB.HybridDDDArchitecture\\ESCMB.Application\\ESCMB.Application.csproj",
+        "projectUniqueName": "C:\\Users\\sopor\\Source\\Repos\\HectorOviedoM\\ESCMB.HybridDDDArchitecture\\ESCMB.HybridDDDArchitecture\\ESCMB.Application\\ESCMB.Application.csproj",
         "projectName": "ESCMB.Application",
-        "projectPath": "C:\\Users\\tomas\\source\\repos\\ESCMB.HybridDDDArchitecture\\ESCMB.HybridDDDArchitecture\\ESCMB.Application\\ESCMB.Application.csproj",
-        "packagesPath": "C:\\Users\\tomas\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\tomas\\source\\repos\\ESCMB.HybridDDDArchitecture\\ESCMB.HybridDDDArchitecture\\ESCMB.Application\\obj\\",
+        "projectPath": "C:\\Users\\sopor\\Source\\Repos\\HectorOviedoM\\ESCMB.HybridDDDArchitecture\\ESCMB.HybridDDDArchitecture\\ESCMB.Application\\ESCMB.Application.csproj",
+        "packagesPath": "C:\\Users\\sopor\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\sopor\\Source\\Repos\\HectorOviedoM\\ESCMB.HybridDDDArchitecture\\ESCMB.HybridDDDArchitecture\\ESCMB.Application\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-        ],
         "configFilePaths": [
-          "C:\\Users\\tomas\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Users\\sopor\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -112,8 +103,8 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\Users\\tomas\\source\\repos\\ESCMB.HybridDDDArchitecture\\ESCMB.HybridDDDArchitecture\\ESCMB.Domain\\ESCMB.Domain.csproj": {
-                "projectPath": "C:\\Users\\tomas\\source\\repos\\ESCMB.HybridDDDArchitecture\\ESCMB.HybridDDDArchitecture\\ESCMB.Domain\\ESCMB.Domain.csproj"
+              "C:\\Users\\sopor\\Source\\Repos\\HectorOviedoM\\ESCMB.HybridDDDArchitecture\\ESCMB.HybridDDDArchitecture\\ESCMB.Domain\\ESCMB.Domain.csproj": {
+                "projectPath": "C:\\Users\\sopor\\Source\\Repos\\HectorOviedoM\\ESCMB.HybridDDDArchitecture\\ESCMB.HybridDDDArchitecture\\ESCMB.Domain\\ESCMB.Domain.csproj"
               }
             }
           }
@@ -173,25 +164,21 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.304\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.400\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\tomas\\source\\repos\\ESCMB.HybridDDDArchitecture\\ESCMB.HybridDDDArchitecture\\ESCMB.Domain\\ESCMB.Domain.csproj": {
+    "C:\\Users\\sopor\\Source\\Repos\\HectorOviedoM\\ESCMB.HybridDDDArchitecture\\ESCMB.HybridDDDArchitecture\\ESCMB.Domain\\ESCMB.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\tomas\\source\\repos\\ESCMB.HybridDDDArchitecture\\ESCMB.HybridDDDArchitecture\\ESCMB.Domain\\ESCMB.Domain.csproj",
+        "projectUniqueName": "C:\\Users\\sopor\\Source\\Repos\\HectorOviedoM\\ESCMB.HybridDDDArchitecture\\ESCMB.HybridDDDArchitecture\\ESCMB.Domain\\ESCMB.Domain.csproj",
         "projectName": "ESCMB.Domain",
-        "projectPath": "C:\\Users\\tomas\\source\\repos\\ESCMB.HybridDDDArchitecture\\ESCMB.HybridDDDArchitecture\\ESCMB.Domain\\ESCMB.Domain.csproj",
-        "packagesPath": "C:\\Users\\tomas\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\tomas\\source\\repos\\ESCMB.HybridDDDArchitecture\\ESCMB.HybridDDDArchitecture\\ESCMB.Domain\\obj\\",
+        "projectPath": "C:\\Users\\sopor\\Source\\Repos\\HectorOviedoM\\ESCMB.HybridDDDArchitecture\\ESCMB.HybridDDDArchitecture\\ESCMB.Domain\\ESCMB.Domain.csproj",
+        "packagesPath": "C:\\Users\\sopor\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\sopor\\Source\\Repos\\HectorOviedoM\\ESCMB.HybridDDDArchitecture\\ESCMB.HybridDDDArchitecture\\ESCMB.Domain\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-        ],
         "configFilePaths": [
-          "C:\\Users\\tomas\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Users\\sopor\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -246,25 +233,21 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.304\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.400\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\tomas\\source\\repos\\ESCMB.HybridDDDArchitecture\\ESCMB.HybridDDDArchitecture\\ESCMB.Infraestructure\\ESCMB.Infraestructure.csproj": {
+    "C:\\Users\\sopor\\Source\\Repos\\HectorOviedoM\\ESCMB.HybridDDDArchitecture\\ESCMB.HybridDDDArchitecture\\ESCMB.Infraestructure\\ESCMB.Infraestructure.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\tomas\\source\\repos\\ESCMB.HybridDDDArchitecture\\ESCMB.HybridDDDArchitecture\\ESCMB.Infraestructure\\ESCMB.Infraestructure.csproj",
+        "projectUniqueName": "C:\\Users\\sopor\\Source\\Repos\\HectorOviedoM\\ESCMB.HybridDDDArchitecture\\ESCMB.HybridDDDArchitecture\\ESCMB.Infraestructure\\ESCMB.Infraestructure.csproj",
         "projectName": "ESCMB.Infraestructure",
-        "projectPath": "C:\\Users\\tomas\\source\\repos\\ESCMB.HybridDDDArchitecture\\ESCMB.HybridDDDArchitecture\\ESCMB.Infraestructure\\ESCMB.Infraestructure.csproj",
-        "packagesPath": "C:\\Users\\tomas\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\tomas\\source\\repos\\ESCMB.HybridDDDArchitecture\\ESCMB.HybridDDDArchitecture\\ESCMB.Infraestructure\\obj\\",
+        "projectPath": "C:\\Users\\sopor\\Source\\Repos\\HectorOviedoM\\ESCMB.HybridDDDArchitecture\\ESCMB.HybridDDDArchitecture\\ESCMB.Infraestructure\\ESCMB.Infraestructure.csproj",
+        "packagesPath": "C:\\Users\\sopor\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\sopor\\Source\\Repos\\HectorOviedoM\\ESCMB.HybridDDDArchitecture\\ESCMB.HybridDDDArchitecture\\ESCMB.Infraestructure\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-        ],
         "configFilePaths": [
-          "C:\\Users\\tomas\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Users\\sopor\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -278,11 +261,11 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\Users\\tomas\\source\\repos\\ESCMB.HybridDDDArchitecture\\ESCMB.HybridDDDArchitecture\\ESCMB.Application\\ESCMB.Application.csproj": {
-                "projectPath": "C:\\Users\\tomas\\source\\repos\\ESCMB.HybridDDDArchitecture\\ESCMB.HybridDDDArchitecture\\ESCMB.Application\\ESCMB.Application.csproj"
+              "C:\\Users\\sopor\\Source\\Repos\\HectorOviedoM\\ESCMB.HybridDDDArchitecture\\ESCMB.HybridDDDArchitecture\\ESCMB.Application\\ESCMB.Application.csproj": {
+                "projectPath": "C:\\Users\\sopor\\Source\\Repos\\HectorOviedoM\\ESCMB.HybridDDDArchitecture\\ESCMB.HybridDDDArchitecture\\ESCMB.Application\\ESCMB.Application.csproj"
               },
-              "C:\\Users\\tomas\\source\\repos\\ESCMB.HybridDDDArchitecture\\ESCMB.HybridDDDArchitecture\\ESCMB.Domain\\ESCMB.Domain.csproj": {
-                "projectPath": "C:\\Users\\tomas\\source\\repos\\ESCMB.HybridDDDArchitecture\\ESCMB.HybridDDDArchitecture\\ESCMB.Domain\\ESCMB.Domain.csproj"
+              "C:\\Users\\sopor\\Source\\Repos\\HectorOviedoM\\ESCMB.HybridDDDArchitecture\\ESCMB.HybridDDDArchitecture\\ESCMB.Domain\\ESCMB.Domain.csproj": {
+                "projectPath": "C:\\Users\\sopor\\Source\\Repos\\HectorOviedoM\\ESCMB.HybridDDDArchitecture\\ESCMB.HybridDDDArchitecture\\ESCMB.Domain\\ESCMB.Domain.csproj"
               }
             }
           }
@@ -338,7 +321,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.304\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.400\\RuntimeIdentifierGraph.json"
         }
       }
     }

@@ -35,7 +35,6 @@ namespace ESCMB.Infraestructure.Registrations
             /* Sql Repositories */
             services.AddTransient<Application.Repositories.Sql.IDummyEntityRepository, Repositories.Sql.DummyEntityRepository>();
             services.AddTransient<Application.Repositories.Sql.IAccountRepository, Repositories.Sql.AccountRepository>();
-            services.AddTransient<Application.Repositories.Sql.IClientRepository, Repositories.Sql.ClientRepository>();
 
             return services;
         }
