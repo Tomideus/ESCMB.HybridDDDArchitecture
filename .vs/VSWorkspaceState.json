@@ -1,11 +1,7 @@
 {
   "ExpandedNodes": [
-    "",
-    "\\ESCMB.HybridDDDArchitecture",
-    "\\ESCMB.HybridDDDArchitecture\\ESCMB.API",
-    "\\ESCMB.HybridDDDArchitecture\\ESCMB.Domain",
-    "\\ESCMB.HybridDDDArchitecture\\ESCMB.Domain\\Entities"
+    ""
   ],
-  "SelectedNode": "\\ESCMB.HybridDDDArchitecture\\ESCMB.Domain\\Entities\\Account.cs",
+  "SelectedNode": "\\ESCMB.HybridDDDArchitecture.sln",
   "PreviewInSolutionExplorer": false
 }

@@ -10,6 +10,7 @@ namespace ESCMB.Infraestructure.Repositories.Sql
     {
         public DbSet<Domain.Entities.DummyEntity> DummyEntity { get; set; }
         public DbSet<Domain.Entities.Account> AccountEntity { get; set; }
+        public DbSet<Domain.Entities.Client> ClientEntity { get; set; }
 
         public StoreDbContext(DbContextOptions<StoreDbContext> options) : base(options)
         {
@@ -20,6 +21,10 @@ namespace ESCMB.Infraestructure.Repositories.Sql
             modelBuilder.Entity<Domain.Entities.DummyEntity>().ToTable("DummyEntity");
             modelBuilder.Entity<Domain.Entities.DummyEntity>().Ignore(type => type.ValidationErrors);
             modelBuilder.Entity<Domain.Entities.DummyEntity>().Ignore(type => type.IsValid);
+
+            modelBuilder.Entity<Domain.Entities.Client>().ToTable("Client");
+            modelBuilder.Entity<Domain.Entities.Client>().Ignore(type => type.ValidationErrors);
+            modelBuilder.Entity<Domain.Entities.Client>().Ignore(type => type.IsValid);
 
             modelBuilder.Entity<Domain.Entities.Account>().ToTable("Account");
             modelBuilder.Entity<Domain.Entities.Account>().Ignore(type => type.ValidationErrors);
